@@ -154,13 +154,13 @@ goal:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=l3nnardwlg&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img height="165"
+     src="https://github-readme-stats.vercel.app/api?username=l3nnardwlg&show_icons=true&theme=github_dark&hide_border=true"
+     alt="Lennard's GitHub Stats" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l3nnardwlg&layout=compact&theme=github_dark&hide_border=true" />
-
-<br>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=l3nnardwlg&theme=github-dark-blue&hide_border=true" />
+<img height="165"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=l3nnardwlg&layout=compact&theme=github_dark&hide_border=true"
+     alt="Top Languages" />
 
 </div>
 
